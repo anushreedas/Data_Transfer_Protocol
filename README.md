@@ -1,6 +1,5 @@
 # TOTO 2
 Name: Anushree Sitaram Das
-RIT ID: 347006592
 
 Implementation of reliable data transfer protocol.
 
